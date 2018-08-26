@@ -3,34 +3,35 @@ header {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  border-bottom: 1px solid black;
 }
 
 .logo span {
-    color: MediumAquamarine;
+  color: MediumAquamarine;
 }
 
 .logo {
-    display: flex;
-    align-items: center;
-    flex-grow: 1;
-    padding-left: 30px;
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
 }
 
 .logo img {
-    width: 70px;
-    height: 60px;
-    margin-right: 12px;
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
 }
 
 header nav {
-    padding-right: 40px;
+  padding-right: 40px;
 }
 
 nav span {
-    display: inline-block;
-    padding: 20px 10px;
+  display: inline-block;
+  padding: 20px 10px;
 }
 
 a {
-    color: black;
+  color: black;
 }
