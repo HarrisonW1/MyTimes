@@ -4,6 +4,12 @@ header {
   font-size: 14px;
   font-weight: bold;
   border-bottom: 1px solid black;
+  width: 100%;
+  height: 80px;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  background-color: white;
 }
 
 .logo span {
