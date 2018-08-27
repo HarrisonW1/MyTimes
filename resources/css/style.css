@@ -43,7 +43,13 @@ a {
 }
 
 div {
-    border: 1px solid black;
+  border: 1px solid black;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32px;
 }
 
 .column.large {
@@ -59,8 +65,8 @@ div {
 }
 
 .content {
-    display: flex;
-    width: 1232px;
-    margin: 0 auto 78px auto;
-    padding-top: 116px;
+  display: flex;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
 }
