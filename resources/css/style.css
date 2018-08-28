@@ -118,3 +118,9 @@ div {
   justify-content: space-between;
   margin-top: 17px;
 }
+
+.story {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
