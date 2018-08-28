@@ -46,6 +46,9 @@ nav span {
 
 body {
   margin: 0;
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
 }
 
 /* Main Content Container */
@@ -103,5 +106,9 @@ div {
 }
 
 .lead-story .image-content span {
-    margin-left: 20px;
+  margin-left: 20px;
+}
+
+.narrative {
+  margin-top: 16px;
 }
