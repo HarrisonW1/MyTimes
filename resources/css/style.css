@@ -80,3 +80,10 @@ div {
 .column.small {
   width: 240px;
 }
+
+.lead-story .image-content {
+    background-image: url(../../resources/Images/img-story-main.png);
+    width: 630px;
+    margin-top: 0;
+    font-size: 40px;
+    text-align: left;
