@@ -112,3 +112,9 @@ div {
 .narrative {
   margin-top: 16px;
 }
+
+.stories {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
