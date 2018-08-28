@@ -124,3 +124,24 @@ div {
   flex-direction: column;
   width: 300px;
 }
+
+.stories .text-content {
+  height: 250px;
+}
+
+.fall-cancelled.image-content {
+  background-image: url(../../resources/Images/img-story-2.png);
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.pop-culture.image-content {
+  background-image: url(../../resources/Images/img-story-3.png);
+}
